@@ -305,6 +305,7 @@ footer ul li:first-child, footer ul li:last-child {
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
+	box-shadow: 0 0 2px 2px yellow;
 }
 .web a:nth-child(1) {
 	background-image: url(../assets/poloafrica_flower_logo_lr.jpg);
